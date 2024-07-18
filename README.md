@@ -1,1 +1,3 @@
 # Go-Demos
+
+- [x] structToMap
